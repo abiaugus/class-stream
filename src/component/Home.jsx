@@ -31,7 +31,7 @@ const Home = (props) => {
               <a href="https://www.instagram.com">
                 <img className={styles.icon} src={instagram} alt="fb" />
               </a>
-              <a href="https://www.reddit.com">
+              <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
                 <img className={styles.icon} src={reddit} alt="fb" />
               </a>
               <a href="https://www.linkedin.com">
