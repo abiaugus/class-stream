@@ -1,6 +1,6 @@
 export const links = [
   {
-    subCode: "17CS71",
+    subCode: "17CS75",
     url1: "https://drive.google.com/open?id=1zWA3iDPNYF6xNbTWmtnczeoYRLlDmpa6",
     url2: "https://drive.google.com/open?id=1pQ6h0OxXydUiORyVRyjq37aEFseXPn-r",
     url3: "https://drive.google.com/open?id=1yyBOv_wJkvh97paHMTERkxC2hT9B1Cvk",
@@ -8,7 +8,7 @@ export const links = [
     url5: "https://www.diginotes.in/study_materials/comingsoon.php",
   },
   {
-    subCode: "17CS72",
+    subCode: "17CS71",
     url1:
       "http://www.vtuupdates.in/wp-content/uploads/cse/7th-sem/15cs71/m1.pdf",
     url2:
@@ -20,7 +20,7 @@ export const links = [
     url5: "",
   },
   {
-    subCode: "17CS73",
+    subCode: "17CS74",
     url: "https://drive.google.com/open?id=1vX10CnljEY5_Q8RxTbjFPuXiSSJdySBr",
     url2: "https://drive.google.com/open?id=17MEYtOw4gSHwSLkSWykQA_G7ZCZp7-q_",
     url3:
@@ -29,7 +29,7 @@ export const links = [
     url5: "https://drive.google.com/open?id=10FUHkC1mqncDIzNSvkSzaJy7OBEWP9S-",
   },
   {
-    subCode: "17CS74",
+    subCode: "17CS73",
     url1:
       "http://www.vtuupdates.in/wp-content/uploads/cse/7th-sem/15cs73/m1.pdf",
     url2:
@@ -42,7 +42,7 @@ export const links = [
       "http://www.vtuupdates.in/wp-content/uploads/cse/7th-sem/15cs73/m5.pdf",
   },
   {
-    subCode: "17CS75",
+    subCode: "17CS72",
     url1:
       "http://www.vtuupdates.in/wp-content/uploads/cse/7th-sem/15cs72/m1.pdf",
     url2:
