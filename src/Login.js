@@ -4,7 +4,7 @@ import { Redirect, useHistory } from "react-router-dom";
 const Login = () => {
   const history = useHistory();
   const changeHandler = (e) => {
-    if (e.target.value === "1234") {
+    if (e.target.value === "1340") {
       history.push("/admin"); //placeholder for admin page.
       localStorage.setItem("isLoggedIn", "true");
       window.location.reload();
